@@ -1,8 +1,8 @@
 Privacy Policy di M.O.V.E Fitness
-Ultimo aggiornamento: [Data di oggi]
+Ultimo aggiornamento: 18 mar 2026
 
 1. Introduzione
-[Tuo Nome o Nome Azienda] ("noi", "ci", "nostro") gestisce l'applicazione mobile M.O.V.E ("l'App"). Questa pagina ti informa delle nostre politiche relative alla raccolta, all'uso e alla divulgazione dei dati personali quando usi la nostra App, in conformità con il Regolamento Generale sulla Protezione dei Dati (GDPR - Regolamento UE 2016/679).
+M.O.V.E Fitness di Mauro Ferrari ("noi", "ci", "nostro") gestisce l'applicazione mobile M.O.V.E ("l'App"). Questa pagina ti informa delle nostre politiche relative alla raccolta, all'uso e alla divulgazione dei dati personali quando usi la nostra App, in conformità con il Regolamento Generale sulla Protezione dei Dati (GDPR - Regolamento UE 2016/679).
 
 2. Dati raccolti e Conservazione Locale
 M.O.V.E è progettata per mettere la tua privacy al primo posto. La maggior parte dei dati generati all'interno dell'App (inclusi profili clienti, misurazioni biometriche, routine di allenamento, limitazioni fisiche e storico) viene salvata esclusivamente in locale sul tuo dispositivo tramite database crittografato. Noi non abbiamo accesso diretto a questi dati, non li vendiamo e non li condividiamo con terzi a scopi pubblicitari.
