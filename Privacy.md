@@ -65,4 +65,4 @@ Ci riserviamo il diritto di aggiornare la presente Informativa. Eventuali modifi
 <hr>
 <p align="center">
   <small><i>M.O.V.E. Studio © 2026 Mauro Ferrari. Tutti i diritti riservati.</i></small>
-</p>
+</p> 
