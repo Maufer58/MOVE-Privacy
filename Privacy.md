@@ -11,7 +11,8 @@
 <br>
 
 ### 1. DATI RACCOLTI E MODALITÀ DI TRATTAMENTO
-M.O.V.E. è progettata per funzionare senza la necessità di creare un account utente o di effettuare un login. Non raccogliamo proattivamente nomi, indirizzi email o numeri di telefono per il funzionamento base dell'App.
+M.O.V.E. è progettata per funzionare senza la necessità di creare un account utente o di effettuare un login. Non raccogliamo proattivamente nomi, indirizzi email o numeri di telefono per il funzionamento base dell'App. 
+**Il consenso prestato tramite il disclaimer di avvio autorizza il trattamento dei dati locali necessario al funzionamento dell'App come descritto nella presente informativa.**
 
 I dati inseriti dall'Utente (es. dettagli dell'allenamento, timer, storico) vengono salvati localmente sul dispositivo tramite database interni (es. Hive e Shared Preferences). Lo Sviluppatore non ha accesso a questi dati e non li memorizza su server proprietari.
 
