@@ -1,80 +1,69 @@
-# TERMINI E CONDIZIONI DI UTILIZZO (EULA)
+<div align="center">
+  <h1>CONTRATTO DI LICENZA PER L'UTENTE FINALE (EULA) E TERMINI DI SERVIZIO</h1>
+  <p><b>Applicazione:</b> M.O.V.E. - Il Tuo Personal Trainer Virtuale<br>
+  <i>Ultimo aggiornamento: 20 Aprile 2026</i></p>
+</div>
 
-**Applicazione:** M.O.V.E. - Il Tuo Personal Trainer Virtuale  
-**Ultimo aggiornamento:** 23 Marzo 2026
+<hr>
 
-> L'utilizzo dell'applicazione M.O.V.E. ("l'App") è subordinato all'accettazione dei presenti Termini e Condizioni ("Termini").  
-> Scaricando, installando o utilizzando l'App, accetti di essere vincolato da questo accordo.  
-> Se non sei d'accordo con questi Termini, ti invitiamo a non utilizzare l'App.
+> **LEGGERE ATTENTAMENTE PRIMA DI UTILIZZARE L'APPLICAZIONE.**
+> L'utilizzo dell'applicazione M.O.V.E. ("l'App") è subordinato all'accettazione incondizionata dei presenti Termini e Condizioni ("Termini"). Scaricando, installando o utilizzando l'App, l'Utente accetta di essere legalmente vincolato dal presente accordo. Qualora l'Utente non concordi con le presenti disposizioni, è invitato a disinstallare immediatamente l'App.
 
----
+<br>
 
-## 1. Natura del Servizio e Disclaimer Medico (IMPORTANTE)
+### 1. NATURA DEL SERVIZIO E DISCLAIMER MEDICO
+M.O.V.E. è uno strumento software di natura tecnica e organizzativa per la gestione degli allenamenti. **M.O.V.E. non è un dispositivo medico e non fornisce consulenza medica, terapeutica o diagnostica.**
+Le schede di allenamento, le metriche e i suggerimenti presenti nell'App hanno scopo puramente informativo. L'Utente è tenuto a consultare un medico prima di intraprendere qualsiasi nuovo programma di allenamento. L'esecuzione degli esercizi fisici avviene a esclusivo rischio e pericolo dell'Utente.
 
-M.O.V.E. è uno strumento software avanzato progettato per assistere gli utenti e i professionisti del fitness nella gestione e nel tracciamento degli allenamenti.  
-**M.O.V.E. non fornisce consulenza medica o diagnostica.**
+<br>
 
-Le schede di allenamento, i protocolli (es. T21), i suggerimenti generati dall'Intelligenza Artificiale e qualsiasi altra informazione presente nell'App hanno scopo puramente informativo.  
+### 2. LICENZA D'USO E LIMITI DI ETÀ
+Viene concessa all'Utente una licenza limitata, personale, non esclusiva, non trasferibile e revocabile per utilizzare l'App. 
+L'utilizzo dell'App è **strettamente riservato a individui di età pari o superiore ai 18 anni**. Scaricando l'App, l'Utente dichiara e garantisce di essere maggiorenne nella propria giurisdizione di residenza.
 
-Prima di intraprendere qualsiasi nuovo programma di allenamento, consulta sempre un medico o un professionista sanitario qualificato.  
-L'esecuzione degli esercizi fisici proposti avviene a tuo esclusivo rischio.
+<br>
 
----
+### 3. ABBONAMENTI, RINNOVI AUTOMATICI E PAGAMENTI (IN-APP PURCHASES)
+M.O.V.E. offre funzionalità premium ("M.O.V.E. Pro") tramite abbonamenti con rinnovo automatico gestiti attraverso gli store ufficiali (Apple App Store o Google Play Store).
+* **Addebito:** Il pagamento verrà addebitato sull'account dell'Utente al momento della conferma dell'acquisto.
+* **Rinnovo:** L'abbonamento si rinnova automaticamente a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo in corso. L'account verrà addebitato per il rinnovo entro 24 ore prima della fine del periodo corrente, identificando il costo del rinnovo.
+* **Gestione e Disdetta:** L'Utente può gestire gli abbonamenti e disattivare il rinnovo automatico recandosi nelle Impostazioni dell'Account del proprio dispositivo (Apple ID o Google Account) dopo l'acquisto. Lo Sviluppatore non ha il potere di cancellare o rimborsare direttamente gli abbonamenti gestiti dagli Store.
 
-## 2. Licenza d'Uso
+<br>
 
-Ti viene concessa una licenza limitata, personale, non esclusiva, non trasferibile e revocabile per scaricare, installare e utilizzare l'App sui tuoi dispositivi personali (inclusi iPhone e Apple Watch) esclusivamente in conformità con i presenti Termini e le linee guida dell'App Store.
+### 4. INTELLIGENZA ARTIFICIALE E RESPONSABILITÀ (AI WIZARD)
+L'App integra funzionalità di Intelligenza Artificiale per l'analisi delle schede cartacee, supportate da API di terze parti (es. Google Generative AI).
+* I risultati generati dall'AI sono elaborazioni probabilistiche e **devono sempre essere revisionati e validati dall'Utente** prima dell'esecuzione.
+* Inviando un'immagine tramite il modulo di scansione, l'Utente garantisce di possederne i diritti e si impegna a non caricare foto contenenti volti, dati personali sensibili o materiale protetto da copyright senza autorizzazione.
+* Lo Sviluppatore declina ogni responsabilità per eventuali errori di interpretazione dell'AI, "allucinazioni" del sistema o inesattezze nei carichi/ripetizioni estratti.
 
----
+<br>
 
-## 3. Intelligenza Artificiale (AI Wizard e Scansione)
+### 5. ARCHIVIAZIONE, PERDITA DEI DATI E RESPONSABILITÀ
+M.O.V.E. opera attraverso un'architettura "Offline-First". I dati di allenamento sono salvati esclusivamente nella memoria fisica del dispositivo dell'Utente. 
+L'Utente è l'unico proprietario dei propri dati e l'unico responsabile del loro backup. **Lo Sviluppatore non è responsabile in alcun caso per la perdita di schede, progressi o storico** derivante da cancellazione dell'App, rottura/smarrimento del dispositivo o corruzione dei file locali.
 
-M.O.V.E. integra funzionalità basate su Intelligenza Artificiale avanzata per l'analisi delle schede cartacee e la generazione di routine.
+<br>
 
-- I risultati generati dall'AI sono elaborazioni probabilistiche e **devono sempre essere revisionati e validati dall'utente** (soprattutto se Trainer professionista) prima dell'esecuzione pratica.
-- Accetti di non utilizzare il modulo di scansione fotografica per caricare materiale illegale, offensivo o protetto da copyright di terzi senza esplicita autorizzazione.
+### 6. DISPOSIZIONI PER I PROFESSIONISTI (TRAINER)
+I Personal Trainer che impiegano M.O.V.E. per la gestione dei propri clienti (Trainees) si assumono l'esclusiva responsabilità legale, etica e professionale in merito alle schede generate e assegnate. L'App opera unicamente come strumento digitale di supporto. Il Trainer agisce formalmente come Titolare del Trattamento per qualsiasi dato personale dei propri clienti inserito nell'App.
 
----
+<br>
 
-## 4. Archiviazione e Proprietà dei Dati
+### 7. LIMITAZIONE DI RESPONSABILITÀ GENERALE
+Nella misura massima consentita dalla legge, lo Sviluppatore non potrà in alcun caso essere ritenuto responsabile per danni diretti, indiretti, accidentali, speciali, punitivi o per infortuni fisici o danni materiali derivanti dall'uso, dall'abuso o dall'incapacità di utilizzare l'App.
 
-Come descritto nella nostra Privacy Policy, M.O.V.E. opera con una rigorosa struttura "Offline-First".
+<br>
 
-Sei l'unico proprietario dei tuoi dati ma anche l'unico responsabile del loro backup.  
-Lo sviluppatore non è responsabile per la perdita di schede, progressi o storico degli allenamenti dovuta a disinstallazione dell'App, smarrimento del dispositivo o aggiornamenti del sistema operativo.
+### 8. CONTATTI E SUPPORTO
+Per richieste di supporto tecnico, questioni relative agli abbonamenti o comunicazioni legali:
 
----
+**Mauro Ferrari** 📍 Sede: Milano, MI, Italia  
+📧 **Supporto Tecnico:** <a href="mailto:support.formove.fitness@gmail.com">support.formove.fitness@gmail.com</a>  
+📧 **Informazioni Generali:** <a href="mailto:info.formove.fitness@gmail.com">info.formove.fitness@gmail.com</a>  
 
-## 5. Utilizzo per Professionisti (Trainer)
-
-I personal trainer che utilizzano M.O.V.E. per gestire i propri clienti, esportare schede PDF o inviare configurazioni JSON, sono gli unici responsabili legali, etici e professionali delle schede generate.
-
-L'App agisce esclusivamente come strumento digitale di supporto alla formattazione e organizzazione.
-
----
-
-## 6. Limitazione di Responsabilità
-
-Nella misura massima consentita dalle leggi applicabili, lo sviluppatore e i collaboratori di M.O.V.E. non saranno in alcun caso responsabili per:
-
-- danni diretti o indiretti  
-- danni accidentali o punitivi  
-- infortuni fisici  
-
-derivanti dall'uso, dall'abuso o dall'incapacità di utilizzare l'App in modo corretto.
-
----
-
-## 7. Contatti e Titolare
-
-Per qualsiasi questione legale, supporto tecnico o feedback:
-
-**Mauro Ferrari**  
-Sede: Milano, MI, Italia  
-
-- 📧 **Email di Supporto:** support.formove.fitness@gmail.com  
-- 📧 **Email Info:** info.formove.fitness@gmail.com  
-
----
-
-*Sviluppato da Mauro Ferrari. Tutti i diritti riservati.*
+<br>
+<hr>
+<p align="center">
+  <small><i>M.O.V.E. Studio © 2026 Mauro Ferrari. Tutti i diritti riservati.</i></small>
+</p>
