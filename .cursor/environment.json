@@ -1,0 +1,16 @@
+{
+  "name": "MOVE Privacy & EULA",
+  "terminals": [
+    {
+      "name": "static-server",
+      "command": "python3 -m http.server 8000",
+      "description": "Serves the static Privacy/EULA HTML pages at http://localhost:8000 for local preview. Open http://localhost:8000/index.html to browse the documents."
+    }
+  ],
+  "ports": [
+    {
+      "name": "web",
+      "port": 8000
+    }
+  ]
+}
